@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="1157.55" height="517" viewBox="0 0 1157.55 517">
+<style type="text/css">
+@import url(https://use.typekit.net/qyj3ksb.css);
+
+  .fw-regular {
+    font-weight: 400;
+  }
+
+  .fw-medium {
+    font-weight: 500;
+  }
+
+  .fw-bold {
+    font-weight: 700;
+  }
+  
+  .isolate {
+    isolation: isolate;
+  }
+
+	text{
+		font-family: 'proxima-nova' !important;
+	}
+
+</style>
+  <text transform="translate(0 167.63)" class="fw-regular isolate" style="fill: #283e51; font-size: 20px;"><tspan x="0" y="0"></tspan><tspan x="25.8" y="0" style="letter-spacing: 0em;">S</tspan><tspan x="37.32" y="0">ALIENT</tspan></text>
+  <rect x="0" y="151.58" width="19.3" height="19.3" style="fill: #d02e27;"/>
+  <text transform="translate(0 127.09)" class="fw-regular isolate" style="fill: #283e51; font-family: ProximaNova-Regular, &apos;Proxima Nova&apos;; font-size: 20px; isolation: isolate;"><tspan x="0" y="0" xml:space="preserve">     United </tspan></text>
+  <text transform="translate(88.14 127.09)" class="fw-regular isolate" style="fill: #283e51; font-family: ProximaNova-Regular, &apos;Proxima Nova&apos;; font-size: 20px; isolation: isolate;"><tspan x="0" y="0">S</tspan></text>
+  <text transform="translate(99.38 127.09)" class="fw-regular isolate" style="fill: #283e51; font-family: ProximaNova-Regular, &apos;Proxima Nova&apos;; font-size: 20px; isolation: isolate;"><tspan x="0" y="0">tates</tspan></text>
+  <rect x="0" y="111.04" width="19.3" height="19.3" style="fill: #1cd681;"/>
+  <text transform="translate(519.42 261.99)" style="fill: #283e51; font-family: ProximaNova-Medium, &apos;Proxima Nova&apos;; font-size: 35.32px; isolation: isolate;"><tspan x="0" y="0" style="letter-spacing: -.03em;">T</tspan><tspan x="19.32" y="0" style="letter-spacing: 0em;">O</tspan></text>
+  <text transform="translate(565.06 261.99)" style="fill: #283e51; font-family: ProximaNova-Medium, &apos;Proxima Nova&apos;; font-size: 35.32px; isolation: isolate; letter-spacing: -.03em;"><tspan x="0" y="0">T</tspan></text>
+  <text transform="translate(583.18 261.99)" style="fill: #283e51; font-family: ProximaNova-Medium, &apos;Proxima Nova&apos;; font-size: 35.32px; isolation: isolate;"><tspan x="0" y="0">AL</tspan></text>
+  <text transform="translate(440.88 304.37)" style="fill: #283e51; font-family: ProximaNova-Bold, &apos;Proxima Nova&apos;; font-size: 35.32px; isolation: isolate;"><tspan x="0" y="0">$4</tspan><tspan x="42.78" y="0" style="letter-spacing: -.02em;">0</tspan><tspan x="63.94" y="0">,03</tspan><tspan x="115.61" y="0" style="letter-spacing: -.02em;">0</tspan><tspan x="136.77" y="0">,926.22</tspan></text>
+  <text transform="translate(541.51 342.12)" style="fill: #283e51; font-family: ProximaNova-Regular, &apos;Proxima Nova&apos;; font-size: 25.53px; isolation: isolate;"><tspan x="0" y="0">(USD)</tspan></text>
+  <text transform="translate(833.72 127.18)" style="fill: #283e51; font-family: ProximaNova-Regular, &apos;Proxima Nova&apos;; font-size: 20px; isolation: isolate;"><tspan x="0" y="0" xml:space="preserve">     The Netherlands*</tspan></text>
+  <rect x="833.71" y="111.13" width="19.3" height="19.3" style="fill: #23c3e2;"/>
+  <text transform="translate(833.72 171.09)" style="fill: #283e51; font-family: ProximaNova-Regular, &apos;Proxima Nova&apos;; font-size: 20px; isolation: isolate;"><tspan x="0" y="0" xml:space="preserve">     </tspan></text>
+  <text transform="translate(859.62 171.09)" style="fill: #283e51; font-family: ProximaNova-Regular, &apos;Proxima Nova&apos;; font-size: 20px; isolation: isolate;"><tspan x="0" y="0">UNDP Core/TR</tspan><tspan x="131.36" y="0" style="letter-spacing: -.04em;">A</tspan><tspan x="143.78" y="0" style="letter-spacing: 0em;">C Funds</tspan></text>
+  <rect x="833.71" y="155.04" width="19.3" height="19.3" style="fill: #f68520;"/>
+  <text transform="translate(835.72 215)" style="fill: #283e51; font-family: ProximaNova-Regular, &apos;Proxima Nova&apos;; font-size: 20px; isolation: isolate;"><tspan x="0" y="0" xml:space="preserve">     </tspan><tspan x="25.8" y="0" style="letter-spacing: 0em;">S</tspan><tspan x="37.46" y="0">witzerland</tspan></text>
+  <rect x="833.71" y="198.95" width="19.3" height="19.3" style="fill: #6720c1;"/>
+  <text transform="translate(0 205.6)" style="fill: #283e51; font-family: ProximaNova-Regular, &apos;Proxima Nova&apos;; font-size: 20px; isolation: isolate;"><tspan x="0" y="0" xml:space="preserve">     Canada</tspan></text>
+  <rect x="0" y="189.55" width="19.3" height="19.3" style="fill: #fd97be;"/>
+  <text transform="translate(0 298.11)" style="fill: #283e51; font-family: ProximaNova-Regular, &apos;Proxima Nova&apos;; font-size: 20px; isolation: isolate;"><tspan x="0" y="0" xml:space="preserve">     Norway</tspan></text>
+  <rect x="0" y="282.06" width="19.3" height="19.3" style="fill: #009a54;"/>
+  <text transform="translate(0 243.56)" style="fill: #283e51; font-family: ProximaNova-Regular, &apos;Proxima Nova&apos;; font-size: 20px; isolation: isolate;"><tspan x="0" y="0" xml:space="preserve">     M</tspan><tspan x="41.98" y="0" style="letter-spacing: -.03em;">D</tspan><tspan x="55.44" y="0" xml:space="preserve">TF - Human Rights  </tspan></text>
+  <text transform="translate(0 267.56)" style="fill: #283e51; font-family: ProximaNova-Regular, &apos;Proxima Nova&apos;; font-size: 20px; isolation: isolate;"><tspan x="0" y="0" xml:space="preserve">     Mainstreaming/DCO</tspan></text>
+  <rect x="0" y="227.51" width="19.3" height="19.3" style="fill: #006eb5;"/>
+  <text transform="translate(0 336.07)" style="fill: #283e51; font-family: ProximaNova-Regular, &apos;Proxima Nova&apos;; font-size: 20px; isolation: isolate;"><tspan x="0" y="0" xml:space="preserve">     Japan</tspan></text>
+  <rect x="0" y="320.02" width="19.3" height="19.3" style="fill: #e1a305;"/>
+  <text transform="translate(828.87 21.73)" style="fill: #283e51; font-family: ProximaNova-Medium, &apos;Proxima Nova&apos;; font-size: 26.09px; isolation: isolate;"><tspan x="0" y="0">Unearmar</tspan></text>
+  <text transform="translate(944.76 21.73)" style="fill: #283e51; font-family: ProximaNova-Medium, &apos;Proxima Nova&apos;; font-size: 26.09px; isolation: isolate;"><tspan x="0" y="0">k</tspan></text>
+  <text transform="translate(957.86 21.73)" style="fill: #283e51; font-family: ProximaNova-Medium, &apos;Proxima Nova&apos;; font-size: 26.09px; isolation: isolate;"><tspan x="0" y="0">ed Contributions</tspan></text>
+  <text transform="translate(828.87 51.92)" style="fill: #283e51; font-family: ProximaNova-Bold, &apos;Proxima Nova&apos;; font-size: 26.09px; isolation: isolate;"><tspan x="0" y="0">$1</tspan><tspan x="26.74" y="0" style="letter-spacing: -.02em;">0</tspan><tspan x="42.37" y="0">,468,87</tspan><tspan x="133.01" y="0" style="letter-spacing: -.02em;">9</tspan><tspan x="148.32" y="0" xml:space="preserve" style="letter-spacing: 0em;">.27  </tspan></text>
+  <polyline points="750.39 137.14 816.31 71.22 1157.55 71.22" style="fill: none; stroke: #cbd0da; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <g>
+    <text transform="translate(7.82 22.92)" style="fill: #283e51; font-family: ProximaNova-Medium, &apos;Proxima Nova&apos;; font-size: 26.09px; isolation: isolate;"><tspan x="0" y="0">Earmar</tspan></text>
+    <text transform="translate(90.68 22.92)" style="fill: #283e51; font-family: ProximaNova-Medium, &apos;Proxima Nova&apos;; font-size: 26.09px; isolation: isolate;"><tspan x="0" y="0">k</tspan></text>
+    <text transform="translate(103.75 22.92)" style="fill: #283e51; font-family: ProximaNova-Medium, &apos;Proxima Nova&apos;; font-size: 26.09px; isolation: isolate;"><tspan x="0" y="0">ed Contributions</tspan></text>
+    <text transform="translate(7.82 53.11)" style="fill: #283e51; font-family: ProximaNova-Bold, &apos;Proxima Nova&apos;; font-size: 26.09px; isolation: isolate;"><tspan x="0" y="0">$2</tspan><tspan x="31.67" y="0" style="letter-spacing: -.02em;">9</tspan><tspan x="46.99" y="0">,562,046.95 </tspan></text>
+    <polyline points="388.73 133.53 327.6 72.41 3.07 72.41" style="fill: none; stroke: #cbd0da; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  </g>
+  <path d="M670.34,403.89c-1.49,1.53-3.02,3.03-4.58,4.5l46.13,49.26c2.25-2.11,4.46-4.27,6.62-6.47l-48.17-47.29Z" style="fill: #e1a305;"/>
+  <path d="M730.51,340.18c-4.72,15.67-11.87,30.29-21.03,43.41l55.18,38.64c13.37-19.09,23.63-40.19,30.39-62.5l-64.54-19.55Z" style="fill: #f68520;"/>
+  <path d="M583.07,448.49l9.6,66.35c32.41-4.69,63.36-16.54,90.61-34.7l-37.28-55.96c-18.52,12.43-39.89,20.93-62.93,24.31Z" style="fill: #fd97be;"/>
+  <path d="M560.64,450.13c-23.86,0-46.45-5.45-66.59-15.18l-29.15,59.75c39.62,19.32,84.11,26.32,127.75,20.08l-9.47-66.31c-7.36,1.09-14.88,1.66-22.54,1.66Z" style="fill: #d02e27;"/>
+  <path d="M407.34,296.83c0-84.66,68.63-153.3,153.3-153.3,38.05,0,72.86,13.87,99.66,36.82l43.59-51.33c-65.04-55.54-156.15-68.23-233.75-32.95-77.77,35.41-128.04,112.45-129.1,198.13-1.11,85.01,47.19,163.3,123.71,200.55l29.23-59.83c-51.27-24.8-86.64-77.32-86.64-138.09Z" style="fill: #1cd681;"/>
+  <path d="M727.07,128.18l-43.73,51.27c32.84,28.12,53.66,69.87,53.66,116.49,0,15.35-2.27,30.17-6.46,44.15l64.45,19.5c25.34-83.78-1.32-174.62-67.92-231.41Z" style="fill: #23c3e2;"/>
+  <path d="M660.38,413.24l43.73,51.36c2.65-2.25,5.24-4.57,7.78-6.95l-46.13-49.26c-1.76,1.66-3.55,3.27-5.38,4.85Z" style="fill: #009a54;"/>
+  <path d="M709.48,383.59c-4.91,7.03-10.39,13.63-16.38,19.73l47.94,47.43c8.68-8.77,16.61-18.26,23.7-28.37l-55.26-38.79Z" style="fill: #6720c1;"/>
+  <path d="M646.08,424.12l37.36,56.08c7.19-4.79,14.09-10,20.66-15.6l-43.73-51.36c-4.54,3.89-9.31,7.53-14.29,10.88Z" style="fill: #006eb5;"/>
+</svg>

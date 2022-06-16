@@ -1,0 +1,24 @@
+<svg width="473" height="688" viewBox="0 0 473 688" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path id="unhcr" d="M455.169 675.59H472V686.045H455.169V675.59Z" fill="#BFE4F1" stroke="#F9EEE5" stroke-width="2"/>
+    <path id="us" d="M1.82178 1H270.481V436.948H1.82178V1Z" fill="#23C3E2" stroke="#F9EEE5" stroke-width="2"/>
+    <path id="netherlands" d="M272.481 1H472V436.948H272.481V1Z" fill="#0096D4" stroke="#F9EEE5" stroke-width="2"/>
+    <path id="crpttf" d="M1.82178 438.949H121.52V686.047H1.82178V438.949Z" fill="#0968B1" stroke="#F9EEE5" stroke-width="2"/>
+    <path id="undp" d="M123.52 438.949H228.603V563.525H123.52V438.949Z" fill="#9B98F8" stroke="#F9EEE5" stroke-width="2"/>
+    <path id="sweden" d="M123.52 565.523H228.603V686.045H123.52V565.523Z" fill="#153A97" stroke="#F9EEE5" stroke-width="2"/>
+    <path id="canada" d="M230.603 438.949H306.456V585.828H230.603V438.949Z" fill="#7B61FF" stroke="#F9EEE5" stroke-width="2"/>
+    <path id="japan" d="M230.603 587.828H306.456V686.046H230.603V587.828Z" fill="#6720C1" stroke="#F9EEE5" stroke-width="2"/>
+    <path id="germany" d="M308.457 438.949H389.65V523.264H308.457V438.949Z" fill="#3E1A8F" stroke="#F9EEE5" stroke-width="2"/>
+    <path id="switzerland" d="M391.65 438.949H472V523.264H391.65V438.949Z" fill="#ED448A" stroke="#F9EEE5" stroke-width="2"/>
+    <path id="uk" d="M308.457 525.262H359.014V614.501H308.457V525.262Z" fill="#FF4D91" stroke="#F9EEE5" stroke-width="2"/>
+    <path id="australia" d="M308.457 616.5H359.014V686.043H308.457V616.5Z" fill="#FD97BE" stroke="#F9EEE5" stroke-width="2"/>
+    <path id="un" d="M361.014 525.262H416.069V588.433H361.014V525.262Z" fill="#D02E27" stroke="#F9EEE5" stroke-width="2"/>
+    <path id="norway" d="M418.069 525.262H472V588.433H418.069V525.262Z" fill="#EE3F34" stroke="#F9EEE5" stroke-width="2"/>
+    <path id="salient" d="M361.014 590.434H423.939V637.384H361.014V590.434Z" fill="#FA5915" stroke="#F9EEE5" stroke-width="2"/>
+    <path id="denmark" d="M361.014 639.383H423.939V686.044H361.014V639.383Z" fill="#E1A305" stroke="#F9EEE5" stroke-width="2"/>
+    <path id="belgium" d="M425.939 590.434H472V632.75H425.939V590.434Z" fill="#FBC412" stroke="#F9EEE5" stroke-width="2"/>
+    <path id="mdtf" d="M425.939 634.75H451.483V655.922H425.939V634.75Z" fill="#FBDD53" stroke="#F9EEE5" stroke-width="2"/>
+    <path id="france" d="M453.483 634.75H472V655.922H453.483V634.75Z" fill="#C9E091" stroke="#F9EEE5" stroke-width="2"/>
+    <path id="luxembourg" d="M425.939 657.922H439.116V686.045H425.939V657.922Z" fill="#92C959" stroke="#F9EEE5" stroke-width="2"/>
+    <path id="qatar" d="M441.116 657.922H453.169V686.045H441.116V657.922Z" fill="#1CD681" stroke="#F9EEE5" stroke-width="2"/>
+    <path id="ireland" d="M455.169 657.922H472V673.59H455.169V657.922Z" fill="#009A54" stroke="#F9EEE5" stroke-width="2"/>
+</svg>
